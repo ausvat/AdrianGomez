@@ -59,20 +59,12 @@
   white-space: nowrap;
   height: 26px;
   min-height: 16px;
-  width: 98px;
-  min-width: 68px;
+  width: 26px;
+  min-width: 16px;
   margin: 60px auto 0 0;
 }
 
 .u-section-1 .u-icon-1 {
-  height: 100%;
-}
-
-.u-section-1 .u-icon-2 {
-  height: 100%;
-}
-
-.u-section-1 .u-icon-3 {
   height: 100%;
 }
 
